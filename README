@@ -1,0 +1,6 @@
+
+mvn compile 
+
+mvn exec:java 
+
+mvn exec:java -Dexec.args="/Users/nittos/NetBeansProjects/ProcesadorCSVNodos/src/main/resources/cancer_smoke.csv"
